@@ -68,7 +68,7 @@
 
     Complete the installation. 
     
-    (During the installation you will be asked for the CDKEY you can use the downloaded cd key from [Step 1](#downloading-tony-hawks-pro-skater-4).)
+    (During the installation you will be asked for the CDKEY you can use the online[THPS4 Key generator](#http://thps-mods.com/thps4cdkey.php) if you plan to play online, if not just us e the key you downloaded earlier.)
 
 <br>
 
