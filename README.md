@@ -68,7 +68,7 @@
 
     Complete the installation. 
     
-    (During the installation you will be asked for the CDKEY you can use the online[THPS4 Key generator](#http://thps-mods.com/thps4cdkey.php) if you plan to play online, if not just us e the key you downloaded earlier.)
+    (During the installation you will be asked for the CDKEY you can use the online [THPS4 Key generator](#http://thps-mods.com/thps4cdkey.php) if you plan to play online, if not just us e the key you downloaded earlier.)
 
 <br>
 
