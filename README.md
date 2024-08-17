@@ -29,6 +29,7 @@
 ---  
 ## Prerequisites
 - Windows 7-11
+- A functioning brain
 
 ### Downloading Tony Hawk's Pro Skater 4
 
@@ -37,6 +38,8 @@
     ![THPS4 Download](img/image.png)
 
 2. Download and install  [Virtual Clone Drive](https://www.elby.ch/en/products/vcd.html)
+
+<br>
 
 ### Installing Tony Hawk's Pro Skater 4
 1. Once you have installed [Virtual Clone Drive](https://www.elby.ch/en/products/vcd.html) - launch the application and creat e a new disk using default settings and click ok:
@@ -67,26 +70,31 @@
     
     (During the installation you will be asked for the CDKEY you can use the downloaded cd key from [Step 1](#downloading-tony-hawks-pro-skater-4).)
 
+<br>
 
 ### Tony Hawk's Pro Skater 4 NO CD
 
 1. Extract the contents of `Tony-Hawks-Pro-Skater-4_NoCD_Win_EN.zip`
 2. Move the contents of `Game` into your game directory and `start.exe` into your main game install directory:
 
-(pay attention, there is a start.exe that goes in `\game` and one that goes in the games root directory)
+    (pay attention, there is a start.exe that goes in `\game` and one that goes in the games root directory)
 
-![No CD](img/image8.png)
-![No CD](img/image9.png)
-![No CD](img/image10.png)
-![No CD](img/image11.png)
+    ![No CD](img/image8.png)
+    ![No CD](img/image9.png)
+    ![No CD](img/image10.png)
+    ![No CD](img/image11.png)
+
+<br>
 
 ### Tony Hawk's Pro Skater 4 Widescreen Support
 
-1. Extract the contents of "TonyHawksProSkater4.WidescreenFix.zip" into your game directory.
- 
-2. Edit the `TonyHawksProSkater4.WidescreenFix.ini` file in `\scripts`, set your desired resolution, save and launch your game.
+1. Download [ThirteenAG's Widescreen fix](https://thirteenag.github.io/wfp#thps4)
 
-![Wide Fix](img/image12.png)
+2. Extract the contents of "TonyHawksProSkater4.WidescreenFix.zip" into your game directory.
+ 
+3. Edit the `TonyHawksProSkater4.WidescreenFix.ini` file in `\scripts`, set your desired resolution, save and launch your game.
+
+    ![Wide Fix](img/image12.png)
 
 
 ## Contributing
