@@ -16,9 +16,10 @@
 
 
 - [Prerequisites](#prerequisites)
-- [Getting Started with the GUI Launcher](#getting-started-with-the-gui-launcher) 
-- [Using custom commands](#using-custom-commands)
-- [Environment Variables Explained](#environment-variables-explained)
+- [Downloading Tony Hawk's Pro Skater 4](#Downloading-Tony-Hawk's-Pro-Skater-4) 
+- [Installing Tony Hawk's Pro Skater 4](#Installing-Tony-Hawk's-Pro-Skater-4)
+- [Tony Hawk's Pro Skater 4 NO CD](#Tony-Hawk's-Pro-Skater-4-NO-CD)
+- [Tony Hawk's Pro Skater 4 Widescreen Support](Tony-Hawk's-Pro-Skater-4-Widescreen-Support)
 - [Contributing](#contributing)
 - [License](#license)
 
