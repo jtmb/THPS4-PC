@@ -8,7 +8,7 @@
   <b>THPS4-PC</b> - A guide on getting tony hawk's pro skater 4 running on a modern PC 🛹
   <br />
   <br />
-  <a href="https://github.com/jtmb/retropie/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/jtmb/THPS4-PC/issues/new?assignees=&labels=bug&title=bug%3A+">Report a Bug</a>
 </div>
 <br>
 <details open="open">
@@ -19,7 +19,7 @@
 - [Downloading Tony Hawk's Pro Skater 4](#Downloading-Tony-Hawk's-Pro-Skater-4) 
 - [Installing Tony Hawk's Pro Skater 4](#Installing-Tony-Hawk's-Pro-Skater-4)
 - [Tony Hawk's Pro Skater 4 NO CD](#Tony-Hawk's-Pro-Skater-4-NO-CD)
-- [Tony Hawk's Pro Skater 4 Widescreen Support](Tony-Hawk's-Pro-Skater-4-Widescreen-Support)
+- [Tony Hawk's Pro Skater 4 Widescreen Support](#Tony-Hawk's-Pro-Skater-4-Widescreen-Support)
 - [Contributing](#contributing)
 - [License](#license)
 
