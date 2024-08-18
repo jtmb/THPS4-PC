@@ -33,13 +33,23 @@
 
 ### Downloading Tony Hawk's Pro Skater 4
 
-1. Download [THPS4](https://www.myabandonware.com/game/tony-hawk-s-pro-skater-4-cn6#download) along with the serial key and no cd crack.
+1. Download [THPS4](https://www.myabandonware.com/game/tony-hawk-s-pro-skater-4-cn6#download) along with the serial key and no cd crack. 
+  ![THPS4 Download](img/image.png)
+  
 
-    ![THPS4 Download](img/image.png)
+    > <span style="color:red">**Important:**</span>
+    > 
+    > During the installation, you will be asked for the `Serial Key`.
+    > 
+    > The online/LAN portion of the game checks the lobby for clients using **duplicate serial keys** and will not allow you to join if you have the same key as another client in the lobby.
+    > 
+    > Therefore, if you plan **to play online/LAN**, use the a serial key from the [THPS4 Key generator](http://thps-mods.com/thps4cdkey.php) instead of the one downladed in the [Step1](#Downloading-Tony-Hawk's-Pro-Skater-4).
+    > <br>
+<br>
 
 2. Download and install  [Virtual Clone Drive](https://www.elby.ch/en/products/vcd.html)
 
-<br>
+
 
 ### Installing Tony Hawk's Pro Skater 4
 1. Once you have installed [Virtual Clone Drive](https://www.elby.ch/en/products/vcd.html) - launch the application and creat e a new disk using default settings and click ok:
@@ -62,15 +72,20 @@
 
     ![THPS4 Install](img/image6.png)
 
-    You should see your virtual disk icon change to THPS4, you can now double click and launch the installer:
+    You should see your virtual disk icon change to THPS4, you can now double click and launch the installer to complete the installation :
 
-    ![THPS4 Install](img/image7.png)
+    ![THPS4 Install](img/image7.png) 
 
-    Complete the installation. 
-    
-    **During the installation you will be asked for the CDKEY. You can use the online [THPS4 Key generator](http://thps-mods.com/thps4cdkey.php) if you plan to play online. If not, just use the key you downloaded earlier.**
-
-
+    > <span style="color:red">**Important:**</span>
+    > 
+    > During the installation, you will be asked for the `Serial Key`.
+    > 
+    > The online/LAN portion of the game checks the lobby for clients using **duplicate serial keys** and will not allow you to join if you have the same key as another client in the lobby.
+    > 
+    > Therefore, if you plan **to play online/LAN**, use the a serial key from the [THPS4 Key generator](http://thps-mods.com/thps4cdkey.php) instead of the one downladed in the [Step1](#Downloading-Tony-Hawk's-Pro-Skater-4).
+    > <br>
+<br>
+     
 <br>
 
 ### Tony Hawk's Pro Skater 4 NO CD
@@ -95,7 +110,7 @@
  
 3. Edit the `TonyHawksProSkater4.WidescreenFix.ini` file in `\scripts`, set your desired resolution, save and launch your game.
 
-    ![Wide Fix](img/image12.png)
+    ![Wide Fix](img/image12.png) 
 
 
 ## Contributing
