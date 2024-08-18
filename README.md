@@ -120,7 +120,7 @@
     ![xbox buttons](img/image13.png)
 
 
-2. Download this file: https://drive.google.com/file/d/1oP18y6yBkldjK-G-l0vt97jqRiFMp7xc/view?usp=sharing
+2. Download this file: https://www.moddb.com/games/tony-hawks-pro-skater-4/downloads/tony-hawks-pro-skater-4-gamepad-prompts
 
 3. Now copy the new file to the `Tony Hawks Pro Skater 4\game-data\fonts folder` folder. This will now display standard Xbox controller fonts in-game.
 
