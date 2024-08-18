@@ -52,7 +52,7 @@
 
 
 ### Installing Tony Hawk's Pro Skater 4
-1. Once you have installed [Virtual Clone Drive](https://www.elby.ch/en/products/vcd.html) - launch the application and creat e a new disk using default settings and click ok:
+1. Once you have installed [Virtual Clone Drive](https://www.elby.ch/en/products/vcd.html) - launch the application and create a new disk using default settings and click ok:
 
     ![Virtual Clone Drive Setup](img/image2.png)
 
