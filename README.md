@@ -18,8 +18,9 @@
 - [Prerequisites](#prerequisites)
 - [Downloading Tony Hawk's Pro Skater 4](#Downloading-Tony-Hawk's-Pro-Skater-4) 
 - [Installing Tony Hawk's Pro Skater 4](#Installing-Tony-Hawk's-Pro-Skater-4)
-- [Tony Hawk's Pro Skater 4 NO CD](#Tony-Hawk's-Pro-Skater-4-NO-CD)
+- [Tony Hawk's Pro Skater 4 NO CD patch](#Tony-Hawk's-Pro-Skater-4-NO-CD)
 - [Tony Hawk's Pro Skater 4 Widescreen Support](#Tony-Hawk's-Pro-Skater-4-Widescreen-Support)
+- [How to get in-game Xbox controller button prompts instead of keyboard keys](#how-to-get-in-game-xbox-controller-button-prompts-instead-of-keyboard-keys)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -112,6 +113,18 @@
 
     ![Wide Fix](img/image12.png) 
 
+### How to get in-game Xbox controller button prompts instead of keyboard keys
+
+1. Open the `Tony Hawks Pro Skater 4\game-data\fonts folder`. Backup the "ButtonsXboxfnt.DAT" file, by renaming it "ButtonsXboxfnt.dat.old".
+
+    ![xbox buttons](img/image13.png)
+
+
+2. Download this file: https://drive.google.com/file/d/1oP18y6yBkldjK-G-l0vt97jqRiFMp7xc/view?usp=sharing
+
+3. Now copy the new file to the `Tony Hawks Pro Skater 4\game-data\fonts folder` folder. This will now display standard Xbox controller fonts in-game.
+
+    ![xbox buttons](img/image14.png)
 
 ## Contributing
 
